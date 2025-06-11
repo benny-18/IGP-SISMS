@@ -109,11 +109,3 @@ This system helps manage products, stalls, and sales at the IGP Trade Park insid
 - NuGet packages: MySql.Data, iTextSharp (PDF), Guna.UI2, etc.
 
 ---
-
-## 📄 License
-
-This project is licensed under the **MIT License** – see the LICENSE file for details.
-
----
-
-Let me know if you want me to add sections like database schema, installation scripts, or screenshots.
